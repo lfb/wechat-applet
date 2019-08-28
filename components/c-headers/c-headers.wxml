@@ -1,0 +1,3 @@
+<!--components/c-headers/c-headers.wxml-->
+<view>{{text}}</view>
+<button bindtap="showHeaders">关闭</button>

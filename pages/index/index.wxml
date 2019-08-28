@@ -1,0 +1,2 @@
+<view>Pedro Liang</view>
+<c-headers text='Hello World' wx:if='{{isSHowHeaders}}' bind:showHeaders='showHeaders'></c-headers>
